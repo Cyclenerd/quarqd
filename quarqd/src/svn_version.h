@@ -1,0 +1,1 @@
+#define QUARQD_VERSION 2171
