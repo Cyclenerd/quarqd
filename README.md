@@ -237,6 +237,8 @@ cd quarqd ; make
 ```
 (This will fail unless you have installed the same cross compilers as me.)
 
+Please report bugs to [Mark Rages](https://github.com/markrages).
+
 
 ## License
 
