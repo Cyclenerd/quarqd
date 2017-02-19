@@ -1,0 +1,15 @@
+qapy/ant_messages.pyc
+qapy/ant_sport_messages.pyc
+qapy/message_set.pyc
+quarqd/src/ant.o
+quarqd/src/ant_channel.o
+quarqd/src/ant_quarq.h
+quarqd/src/channel_manager.o
+quarqd/src/configuration.o
+quarqd/src/generated-debug.c
+quarqd/src/generated-header.h
+quarqd/src/generated-messages.h
+quarqd/src/generated-schema.sql
+quarqd/src/generated-xml.c
+quarqd/src/main.o
+quarqd/src/quarqd
