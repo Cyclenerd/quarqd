@@ -1,6 +1,6 @@
 # quarqd
 
-**This repository is a copy of the original https://opensource.quarq.us/quarqd/**
+**This repository is a copy of the original https://opensource.quarq.us/quarqd/ but with a revised README**
 
 quarqd is a daemon for communicating with an ANT device and reading ANT+ sport data.  Data is communicated over a network socket.
 
@@ -221,8 +221,9 @@ Tested with a jailbroken iPod touch. (When Apple-sanctioned ANT devices hit the 
 
 **Requirements:**
 
-* Python 2.x at /usr/bin/python
-* ansi C compiler
+* ANT+ network key. Edit [main.c](https://github.com/Cyclenerd/quarqd/blob/master/quarqd/src/main.c) and remove `#error Fix NetworkKey to ANT+ key`.
+* Python 2.x at `/usr/bin/python`
+* ANSI C compiler (`gcc`)
 
 To build single target, using the default native C compiler:
 
