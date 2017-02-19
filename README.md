@@ -57,7 +57,7 @@ The part of the code that generates messages comes from the Python script quarqd
 
 `$TIME` is seconds past the epoch.
 
-For values of `$xml_message` and `$xml_message_dataname`, see message_format.txt
+For values of `$xml_message` and `$xml_message_dataname`, see [message_format.txt](https://github.com/Cyclenerd/quarqd/blob/master/message_format.txt)
 
 
 ### Out-of-band values
