@@ -242,4 +242,4 @@ Please report bugs to [Mark Rages](https://github.com/markrages).
 
 ## License
 
-Copyright (c) 2007-2010, Quarq Technology Inc. Please see LICENSE.txt.
+Copyright (c) 2007-2010, Quarq Technology Inc. Please see [LICENSE.txt](https://github.com/Cyclenerd/quarqd/blob/master/LICENSE.txt).
