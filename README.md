@@ -222,6 +222,7 @@ Tested with a jailbroken iPod touch. (When Apple-sanctioned ANT devices hit the 
 **Requirements:**
 
 * ANT+ network key. Edit [main.c](https://github.com/Cyclenerd/quarqd/blob/master/quarqd/src/main.c) and remove `#error Fix NetworkKey to ANT+ key`.
+	* You find a key (`ANT::key`) in the Reposiory of [Golden Cheetah](https://github.com/GoldenCheetah/GoldenCheetah/blob/master/src/ANT/ANT.cpp).
 * Python 2.x at `/usr/bin/python`
 * ANSI C compiler (`gcc`)
 
