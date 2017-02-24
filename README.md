@@ -59,6 +59,8 @@ The part of the code that generates messages comes from the Python script quarqd
 
 For values of `$xml_message` and `$xml_message_dataname`, see [message_format.txt](https://github.com/Cyclenerd/quarqd/blob/master/message_format.txt)
 
+Example with heart rate, power, cadence and speed:
+https://cyclenerd.github.io/quarqd_demo/output.txt
 
 ### Out-of-band values
 
